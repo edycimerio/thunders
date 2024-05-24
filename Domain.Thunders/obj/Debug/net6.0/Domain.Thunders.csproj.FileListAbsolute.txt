@@ -1,0 +1,12 @@
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\bin\Debug\net6.0\Domain.Thunders.deps.json
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\bin\Debug\net6.0\Domain.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\bin\Debug\net6.0\Domain.Thunders.pdb
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.csproj.AssemblyReference.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.AssemblyInfoInputs.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.AssemblyInfo.cs
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\refint\Domain.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\Domain.Thunders.pdb
+C:\Projetos\Testes\Thunders\API.Thunders\Domain.Thunders\obj\Debug\net6.0\ref\Domain.Thunders.dll

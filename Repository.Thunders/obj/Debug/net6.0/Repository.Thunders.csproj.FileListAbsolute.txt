@@ -1,0 +1,17 @@
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\bin\Debug\net6.0\Repository.Thunders.deps.json
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\bin\Debug\net6.0\Repository.Thunders.runtimeconfig.json
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\bin\Debug\net6.0\Repository.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\bin\Debug\net6.0\Repository.Thunders.pdb
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\bin\Debug\net6.0\Domain.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\bin\Debug\net6.0\Domain.Thunders.pdb
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.csproj.AssemblyReference.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.AssemblyInfoInputs.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.AssemblyInfo.cs
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.csproj.CoreCompileInputs.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Reposito.F025399A.Up2Date
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\refint\Repository.Thunders.dll
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.pdb
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\Repository.Thunders.genruntimeconfig.cache
+C:\Projetos\Testes\Thunders\API.Thunders\Repository.Thunders\obj\Debug\net6.0\ref\Repository.Thunders.dll

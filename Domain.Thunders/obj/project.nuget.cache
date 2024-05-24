@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsXO7GX/8imdLQBNVlSHG8vrlJnzE4ag+2WCRTwHntZc0BQRtJCv4XDEHvESnx0qFzI/QIr0PrDhEINOxz/I5g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Testes\\Thunders\\API.Thunders\\Domain.Thunders\\Domain.Thunders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edy\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Edy\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
